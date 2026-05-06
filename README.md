@@ -26,6 +26,10 @@ Built 100% in Zapier. No code. Scalable. Smart.
 
 ---
 
+[![Watch the Project](https://raw.githubusercontent.com/CB-AI-Toolkit-for-Professional/11.-P9-Automating-Task-Tracker-Zapier-Notion-/main/Thumbnail.png)](https://www.youtube.com/watch?v=CWznCXp0Cv8)
+
+---
+
 ## 🧠 Real-World Use Case
 
 **Imagine this:**
